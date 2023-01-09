@@ -1,11 +1,11 @@
 .cred-experience {
   background-color: var(--bg-blue);
-  background-image: url(https://web-images.credcdn.in/_next/assets/images/home-page/money-matters-bg.jpg);
+  background-image: url(imgmain.png);
 }
 
 @media all and (max-width: 1279px) {
   .cred-experience {
-    background-position: center bottom;
+    background-position:  left;
   }
 }
 

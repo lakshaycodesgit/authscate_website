@@ -9,18 +9,16 @@ const CredExperience = () => {
         <div className="photo-section-child">
           <div className="photo-section-top">
             <div className="photo-section-heading cred-experience-heading">
-              we take your money matters seriously.
+              we take your autentication matters seriously.
             </div>
             <div className="photo-section-subheading">
-              so that you don’t have to.
+            To put this into perspective, almost 20% of the products listed on Social Media are counterfeits.
             </div>
           </div>
           <div className="photo-section-bottom">
             <div className="photo-section-description cred-experience-description">
-              never miss a due date with reminders to help you pay your bills on
-              time, instant settlements mean you never wait for your payments to
-              go through and statement analysis lets you know where your money
-              goes, always.
+             
+To put this into perspective, almost 20% of the products listed on Social Media are counterfeits.
             </div>
             <div className="photo-section-button">
               <Button buttonText="Experience the upgrade" />
