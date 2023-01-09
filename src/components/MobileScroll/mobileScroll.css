@@ -1,3 +1,7 @@
+.mobile-scroll flex max-width{
+  background-image: url(back.png);
+}
+
 .mobile-scroll {
   position: relative;
   padding-top: 70px;
@@ -6,10 +10,12 @@
 
 .scroll-full-screen-wrapper {
   width: 50%;
+ 
 }
 
 .scroll-full-screen {
   min-height: 100vh;
+
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -54,9 +60,9 @@
 }
 
 .screen-heading {
-  font-size: 105px;
+  font-size: 75px;
   font-weight: 700;
-  line-height: 105px;
+  line-height: 75px;
 }
 
 .screen-description {
@@ -93,7 +99,7 @@
     height: 480px;
   }
   .screen-heading {
-    font-size: 50px;
+    font-size: 20px;
     line-height: 50px;
   }
 

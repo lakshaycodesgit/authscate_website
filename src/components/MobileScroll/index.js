@@ -4,9 +4,9 @@ import ScreenText from "./ScreenText";
 
 const scrollData = [
   {
-    heading: "we’ve got your back.",
+    heading: "counterfeiting leads to brand reputation damage  ",
     description:
-      "gain complete control over your credit card with CRED Protect. receive category-based analysis of your spends, detect hidden charges, and track your credit limit in real-time.",
+      "BRAND REPUTATION DAMAGE",
     mobile_img:
       "https://web-images.credcdn.in/_next/assets/images/home-page/features/fold1.png",
   },
