@@ -23,10 +23,10 @@ const HeroSection = () => {
       <div className="flex flex-col absolute-center hero-section max-width">
         
         <div className="hero-heading">
-          Authscate 
-        </div>
+        NFTs to prevent counterfeiting
+                </div>
         <div className="hero-subheading">
-          NFTs to prevent counterfeiting
+        Selling a product, purporting to be something is not
         </div>
         <Button buttonText="Click to know more" />
       </div>

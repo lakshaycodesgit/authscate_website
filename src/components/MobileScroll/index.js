@@ -8,14 +8,14 @@ const scrollData = [
     description:
       "BRAND REPUTATION DAMAGE",
     mobile_img:
-      "https://web-images.credcdn.in/_next/assets/images/home-page/features/fold1.png",
+      require('./img1.png')
   },
   {
     heading: "begin your winning streak.",
     description:
       "use your CRED coins to participate in games and raffles to win the most exclusive rewards and cashbacks on CRED. good luck.",
     mobile_img:
-      "https://web-images.credcdn.in/_next/assets/images/home-page/features/fold2.png",
+      require('./img2.png'),
   },
   {
     heading: "for your eclectic taste.",
