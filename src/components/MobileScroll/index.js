@@ -22,14 +22,14 @@ const scrollData = [
     description:
       "get access to the CRED Store, a member-exclusive selection of products and experiences at special prices that complement your taste. this is the good life they speak of.",
     mobile_img:
-      "https://web-images.credcdn.in/_next/assets/images/home-page/features/fold3.png",
+      require('./img3.png'),
   },
   {
     heading: "more cash in your pockets.",
     description:
       "switch to CRED RentPay and start paying rent with your credit card. this way you get up to 45 days of credit free period, more reward points and a happy landlord.",
     mobile_img:
-      "https://web-images.credcdn.in/_next/assets/images/home-page/features/fold4.png",
+      require('./mob1.png'),
   },
 ];
 
