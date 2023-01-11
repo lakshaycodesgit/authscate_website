@@ -5,7 +5,7 @@ import "./appRating.css";
 const getIosPrefix = () => {
   return (
     <img
-      src="logo 2.png"
+      src={require("./logo 2.png")}
       className="app-rating-icon"
     />
   );

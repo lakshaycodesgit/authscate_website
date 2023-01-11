@@ -7,10 +7,16 @@ const CredStory = () => {
       <div className="max-width flex story-wrapper">
         <div className="flex cred-story-heading-wrapper">
           <div className="photo-section-heading cred-experience-heading">
-       Who we are
+     
           </div>
         </div>
         <div className="cred-story-detail">
+          <div className="photo-section-heading">
+         Who We Are
+          </div>
+          <div className="photo-section-para">
+ 
+          </div>
           <div className="photo-section-subheading">
           We at Authscate aim to solve the counterfeiting problem by leveraging the power of blockchain and NFC. 
           </div>
