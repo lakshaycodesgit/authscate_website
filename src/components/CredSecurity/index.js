@@ -9,20 +9,21 @@ const CredSecurity = () => {
         <div className="photo-section-child">
           <div className="photo-section-top dynamic-margin">
             <div className="photo-section-heading">
-              security first. and second.
+             who we are
             </div>
             <div className="photo-section-subheading">
-              what’s yours remains only yours.
+            We at Authscate aim to solve the counterfeiting problem by leveraging the power of blockchain and NFC.
             </div>
           </div>
           <div className="photo-section-bottom dynamic-margin">
             <div className="photo-section-description">
-              CRED ensures that all your personal data and transactions are
-              encrypted, and secured so what’s yours remains only yours. there’s
-              no room for mistakes because we didn’t leave any.
+            Four engineering students conceived the idea during the fall of 2022. Our concept has been appreciated for a while, and we’ve been incubated at Netaji Subhas University of Technology’s India Innovation Fund (IIF) incubator.
+            </div>
+            <div className="photo-section-description">
+            Stay tuned for our upcoming product updates
             </div>
             <div className="photo-section-button">
-              <Button buttonText="Become a member" />
+              
             </div>
           </div>
         </div>

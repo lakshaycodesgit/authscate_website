@@ -12,14 +12,12 @@ const CredStory = () => {
         </div>
         <div className="cred-story-detail">
           <div className="photo-section-heading">
-         Who We Are
-          </div>
-          <div className="photo-section-para">
- 
+         who we are
           </div>
           <div className="photo-section-subheading">
-          We at Authscate aim to solve the counterfeiting problem by leveraging the power of blockchain and NFC. 
+ 
           </div>
+        
           <div className="cred-story-para">
           Four engineering students conceived the idea during the fall of 2022. Our concept has been appreciated for a while
            
