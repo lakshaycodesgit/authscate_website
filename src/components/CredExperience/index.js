@@ -21,7 +21,7 @@ const CredExperience = () => {
 To put this into perspective, almost 20% of the products listed on Social Media are counterfeits.
             </div>
             <div className="photo-section-button">
-              <Button buttonText="Experience the upgrade" />
+              <Button buttonText style="Experience Authscate" />
             </div>
           </div>
         </div>

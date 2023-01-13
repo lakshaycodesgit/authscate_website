@@ -11,6 +11,7 @@ import HeroSection from "../components/HeroSection";
 import MobileScroll from "../components/MobileScroll";
 import ProductShowcase from "../components/ProductShowcase";
 import WindowPeak from "../components/WindowPeak";
+import OurTeam from"../components/OurTeam";
 
 const HomePage = () => {
   return (
@@ -26,7 +27,7 @@ const HomePage = () => {
         <WindowPeak />
       </div>
       <CredSecurity />
-      
+      <OurTeam/>
      
       <Footer />
     </>
